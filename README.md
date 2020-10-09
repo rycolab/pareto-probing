@@ -55,7 +55,7 @@ If this code or the paper were usefull to you, consider citing it:
 
 ```bash
 @inproceedings{pimentel-etal-2020-pareto,
-    title = "Pareto Probing: Trading Off Accuracy and Complexity",
+    title = "Pareto Probing: {T}rading Off Accuracy and Complexity",
     author = "Pimentel, Tiago and
     Saphra, Naomi and
     Williams, Adina and
